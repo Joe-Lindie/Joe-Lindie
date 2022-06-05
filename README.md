@@ -12,3 +12,5 @@ I'd love to hear from you. Why not find me online? ⬇️ ⬇️
   
 - 🔎 Github Profile [<img src="github.png" alt="Github Logo" width="20"/>](https://github.com/Joe-Lindie) 
 
+- 🔎 Email [<img src="email.png" alt="Mailbox Logo" width="20"/>](mailto:Josephmlindie@gmail.com) 
+
