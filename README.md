@@ -14,3 +14,7 @@ I'd love to hear from you. Why not find me online? ⬇️ ⬇️
 
 - 🔎 Email [<img src="email.png" alt="Mailbox Logo" width="20"/>](mailto:Josephmlindie@gmail.com) 
 
+## **Stats 📈** 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joe-Lindie&theme=onedark)](https://git.io/streak-stats)
+
