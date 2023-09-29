@@ -2,7 +2,7 @@
 ![Image of Joe](joe.png)
 
 ## **About Me 🤷‍♂️** <br>
-👋 Hello there! I'm I'm Joe **(he/him)**., a passionate junior software engineer at Wellcome Trust. I honed my skills at the Founders & Coders bootcamp, and now I'm immersed in the dynamic world of software development. My toolbox includes technologies like React for crafting interactive user interfaces, Tailwind for stylish and responsive designs, Cypress for robust testing, Node.js for server-side scripting, and of course, Git and GitHub for version control and collaborative workflows.
+👋 Hello there! I'm I'm Joe **(he/him)**, a passionate junior software engineer at Wellcome Trust. I honed my skills at the Founders & Coders bootcamp, and now I'm immersed in the dynamic world of software development. My toolbox includes technologies like React for crafting interactive user interfaces, Tailwind for stylish and responsive designs, Cypress for robust testing, Node.js for server-side scripting, and of course, Git and GitHub for version control and collaborative workflows.
 
 🚀 Currently, I'm channeling my energy into a compelling project aimed at empowering Wellcome Trust employees. My focus lies in the frontend realm, where I weave together the threads of React magic. However, I'm not shy about diving into backend tasks to ensure a seamless end-to-end experience.
 
