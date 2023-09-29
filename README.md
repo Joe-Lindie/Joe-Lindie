@@ -2,7 +2,12 @@
 ![Image of Joe](joe.png)
 
 ## **About Me 🤷‍♂️** <br>
-Hi, I'm Joe **(he/him)**. I am an aspiring Software Engineer with a background in Railway Infrastructure. I am currently on the [Founders & Coders Programme](https://www.foundersandcoders.com/). Railway Infrastructure to Software Engineer, you may ask? My newfound passion for programming started when I wanted to build a website to host my content 📸. (You can see my photography [here](https://joe-lindie.github.io/Bindus-Photography/).) Since then, I have continued to learn. I'm building a solid foundation in HTML, CSS, and Javascript. I attend weekly meetups at [Codebar](https://codebar.io/) and hone my new skills through FreeCodeCamp, Execute Programme and hundreds of hours of practice. 
+👋 Hello there! I'm I'm Joe **(he/him)**., a passionate junior software engineer at Wellcome Trust. I honed my skills at the Founders & Coders bootcamp, and now I'm immersed in the dynamic world of software development. My toolbox includes technologies like React for crafting interactive user interfaces, Tailwind for stylish and responsive designs, Cypress for robust testing, Node.js for server-side scripting, and of course, Git and GitHub for version control and collaborative workflows.
+
+🚀 Currently, I'm channeling my energy into a compelling project aimed at empowering Wellcome Trust employees. My focus lies in the frontend realm, where I weave together the threads of React magic. However, I'm not shy about diving into backend tasks to ensure a seamless end-to-end experience.
+
+🔍 My mission? To enable Wellcome employees to explore the vast landscape of insights and data generated within the Trust. As I navigate the complexities of software engineering, I'm always eager to learn and contribute to projects that make a positive impact. Let's code the future together!
+
 <br>
 
 ## **Online Presence 🌍** 
